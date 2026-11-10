@@ -1,0 +1,41 @@
+id,name,company,role,company_size,budget_usd,timeline,message,expected_tier
+L01,Asha Rao,Brightcart,Founder,12,6000,this month,We get 200 support emails a day about orders and returns. Want a chatbot that answers from our help docs and hands off to a human.,hot
+L02,Rohit Sen,,Student,1,,,Hi can you help with my final year project on chatbots? I can't pay much.,cold
+L03,Megan Cole,Harbor Dental,Practice Manager,25,3000,next month,Patients keep calling to ask about timings and insurance. Looking for a WhatsApp bot for FAQs and bookings.,hot
+L04,Vikram Shah,Shah Textiles,Owner,60,,no rush,Just exploring what AI can do for a business like ours.,cold
+L05,Laura Kim,Finly,CTO,40,15000,2 weeks,Need an agent that reads bank statements and pulls transactions into JSON for our underwriting team. Have 5k sample PDFs.,hot
+L06,Arjun Mehta,Mehta & Co,Partner,8,1500,next quarter,Want to search our old contracts by asking questions instead of reading them.,warm
+L07,Priya Nair,Learnly,Content Lead,30,,next month,Can AI write quiz questions from our course notes? Need to check with my head before budget.,warm
+L08,Tom Becker,,Freelancer,1,200,asap,Need someone to fix my ChatGPT prompt for free basically.,cold
+L09,Neha Gupta,CareFirst Clinics,Head of Operations,300,20000,this quarter,We want to automate appointment reminders and answer patient FAQs in Hindi and English across 12 clinics.,hot
+L10,Sam Ortiz,PixelForge,Marketing Manager,15,800,next month,Looking for a tool that drafts social posts from our blog.,warm
+L11,Fatima Khan,Nestwise,Co-founder,6,,asap,Our real estate leads come from 3 sites. Need an AI that scores them and replies in 5 minutes. Budget is flexible for the right person.,hot
+L12,David Lee,Lee Logistics,Intern,200,,,My manager asked me to collect quotes for AI tools. Can you send pricing?,warm
+L13,Kavya Iyer,,Researcher,1,,someday,Interested in your RAG work for my thesis.,cold
+L14,Chris Novak,ShopNorth,Head of Ecommerce,80,8000,next month,Product descriptions for 4000 items. Want an AI pipeline with review step before publishing.,hot
+L15,Anil Kumar,Kumar Hardware,Owner,10,500,no rush,Maybe a chatbot for my website one day.,cold
+L16,Sara Haddad,Medlink,Product Manager,150,10000,next quarter,Evaluating vendors for a symptom checker chatbot. Need strong evals and safety checks. Decision in Q1.,warm
+L17,Ben Wright,Wright Legal,Managing Partner,20,5000,2 weeks,Need a private assistant that answers questions from our policy manual. Data cannot leave our servers.,hot
+L18,Meera Joshi,EduSpark,Teacher,3,,,Is there a free tool to make worksheets with AI?,cold
+L19,Jake Turner,Turner Fitness,Owner,5,1200,this month,Want a bot on Instagram DMs to answer class timings and prices and book trials.,hot
+L20,Riya Kapoor,Glowup Salon,Manager,12,,next month,People ask the same things on WhatsApp all day. Thinking about automating it. Owner decides budget.,warm
+L21,Omar Farouk,Datapulse,VP Engineering,250,25000,next quarter,We want to add an LLM agent to our analytics product. Looking for a contractor for a 3 month build.,warm
+L22,Linda Park,,Retired,1,,,Can AI help me write my memoir?,cold
+L23,Karan Malhotra,Malhotra Exports,Director,45,4000,this month,Need invoices and shipping docs read automatically and entered into our ERP.,hot
+L24,Emily Stone,Stone Realty,Agent,4,300,no rush,Curious about AI for writing listings.,cold
+L25,Nikita Verma,Payroll Plus,Founder,18,7000,asap,Clients email HR questions all day. Want a chatbot trained on each client's handbook with sources shown.,hot
+L26,George Hill,Hill Farms,Owner,30,,someday,Saw your post. Not sure what we would use AI for yet.,cold
+L27,Aditi Bose,Quickserve,Operations Manager,90,2500,next month,Want call summaries from our support team turned into tickets automatically. Need to get approval from the COO.,warm
+L28,Mark Evans,Evans Media,CEO,35,,2 weeks,We publish 30 articles a week. Want an AI fact check step before editors see drafts. Can move fast.,hot
+L29,Sneha Patil,,Student,1,100,asap,Need help with my assignment on LangChain due tomorrow.,cold
+L30,Paul Martin,Martin Insurance,Head of Claims,120,12000,this quarter,Claims team reads long emails and PDFs. Want an agent that pulls key fields and flags missing documents.,hot
+L31,Ishaan Roy,Roy Consulting,Consultant,2,1000,next quarter,Might need a small RAG demo for a client pitch. Will know more next month.,warm
+L32,Grace Liu,Bloom Florist,Owner,3,,no rush,Just wanted to say I liked your carousel.,cold
+L33,Rahul Desai,FinEdge,Product Lead,60,6000,next quarter,Planning an AI assistant for our trading app FAQs. Budget approved for next quarter.,warm
+L34,Hannah Scott,Scott Accounting,Partner,15,3500,this month,Want to answer client tax questions from our internal notes with citations. Tax season starts in 6 weeks.,hot
+L35,Deepak Singh,,Job Seeker,1,,,Can you refer me to an AI job?,cold
+L36,Olivia Brown,Brown & Co Retail,Marketing Coordinator,50,,next month,Exploring AI for customer emails. I will share with my manager.,warm
+L37,Yusuf Ali,Alif Travel,Founder,9,2000,2 weeks,Customers ask about visa rules and packages on WhatsApp. Want a bot that answers from our PDF brochures.,hot
+L38,Ritu Sharma,Sharma Clinic,Doctor,4,,someday,Maybe later we can talk about AI for my clinic.,cold
+L39,Ethan Clarke,Clarke Analytics,Data Lead,40,5000,next quarter,Want to compare open models vs paid APIs for our document search. Need a test set and report.,warm
+L40,Pooja Reddy,HomeChef,Co-founder,22,4500,asap,Order and refund questions are drowning our team. Want a support bot that connects to our order system.,hot

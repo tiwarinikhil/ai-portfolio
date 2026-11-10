@@ -5,6 +5,7 @@ Practical AI projects by Nikhil Tiwary, AI Engineer (M.Tech in AI, IIT Ropar). E
 | # | Project | What it shows | Stack |
 | --- | --- | --- | --- |
 | 01 | [Docs Chatbot with Evals](01-docs-chatbot-evals) | RAG chatbot with sources, and proof that heading-based chunking beats fixed-size chunking (79% to 100% Hit@1) | Python, FastAPI, BM25, embeddings, OpenAI-compatible LLMs |
+| 02 | [Lead Qualifier Agent](02-lead-qualifier-agent) | Scores leads with reasons and drafts replies a human approves. 88% vs 69% accuracy against budget-only sorting on a holdout set | Python, LangGraph, OpenAI-compatible LLMs |
 
 New project every week.
 
