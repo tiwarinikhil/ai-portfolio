@@ -1,0 +1,68 @@
+{"id": "account.md#0", "doc": "account.md", "text": "# Your account", "updated": "2025-01-15"}
+{"id": "account.md#1", "doc": "account.md", "text": "## Reset your password", "updated": "2025-01-15"}
+{"id": "account.md#2", "doc": "account.md", "text": "Click Forgot password on the sign-in page. We email a reset link that works for 30 minutes.", "updated": "2025-01-15"}
+{"id": "account.md#3", "doc": "account.md", "text": "## Change your delivery address", "updated": "2025-01-15"}
+{"id": "account.md#4", "doc": "account.md", "text": "You can change the address on an order until it is packed. After that, the address is locked.", "updated": "2025-01-15"}
+{"id": "account.md#5", "doc": "account.md", "text": "## Delete your account", "updated": "2025-01-15"}
+{"id": "account.md#6", "doc": "account.md", "text": "Go to Settings, then Privacy, then Delete account. We remove your personal data within 30 days, but keep invoices for 8 years as the law requires.", "updated": "2025-01-15"}
+{"id": "account.md#7", "doc": "account.md", "text": "## Brightleaf Club points", "updated": "2025-01-15"}
+{"id": "account.md#8", "doc": "account.md", "text": "You earn 1 point for every 100 rupees you spend. 100 points equal a 100 rupee discount on your next order.", "updated": "2025-01-15"}
+{"id": "account.md#9", "doc": "account.md", "text": "Need more help? Our support team can help with orders, returns, refunds, shipping, delivery, payments, warranty claims and account questions. Write to help@brightleaf.example and we reply within one business day. Brightleaf Home is a made-up demo store.", "updated": "2025-01-15"}
+{"id": "payments.md#0", "doc": "payments.md", "text": "# Payments", "updated": "2025-04-20"}
+{"id": "payments.md#1", "doc": "payments.md", "text": "## Ways to pay", "updated": "2025-04-20"}
+{"id": "payments.md#2", "doc": "payments.md", "text": "We accept UPI, debit cards, credit cards, net banking and cash on delivery.", "updated": "2025-04-20"}
+{"id": "payments.md#3", "doc": "payments.md", "text": "## Cash on delivery limit", "updated": "2025-04-20"}
+{"id": "payments.md#4", "doc": "payments.md", "text": "Cash on delivery is available only for orders below 10,000 rupees.", "updated": "2025-04-20"}
+{"id": "payments.md#5", "doc": "payments.md", "text": "## No-cost EMI", "updated": "2025-04-20"}
+{"id": "payments.md#6", "doc": "payments.md", "text": "Orders above 5,000 rupees can be split into 3 or 6 monthly instalments with no interest on selected credit cards.", "updated": "2025-04-20"}
+{"id": "payments.md#7", "doc": "payments.md", "text": "## Payment failed but money was taken", "updated": "2025-04-20"}
+{"id": "payments.md#8", "doc": "payments.md", "text": "If money left your account but the order was not placed, the bank reverses it automatically within 7 days. You do not need to contact us.", "updated": "2025-04-20"}
+{"id": "payments.md#9", "doc": "payments.md", "text": "## GST invoice", "updated": "2025-04-20"}
+{"id": "payments.md#10", "doc": "payments.md", "text": "Download a GST invoice from My Orders. To add your company GSTIN, enter it at checkout before you pay.", "updated": "2025-04-20"}
+{"id": "payments.md#11", "doc": "payments.md", "text": "Need more help? Our support team can help with orders, returns, refunds, shipping, delivery, payments, warranty claims and account questions. Write to help@brightleaf.example and we reply within one business day. Brightleaf Home is a made-up demo store.", "updated": "2025-04-20"}
+{"id": "returns-2023.md#0", "doc": "returns-2023.md", "text": "# Returns and refunds", "updated": "2023-02-10"}
+{"id": "returns-2023.md#1", "doc": "returns-2023.md", "text": "## Return window", "updated": "2023-02-10"}
+{"id": "returns-2023.md#2", "doc": "returns-2023.md", "text": "You can return most items within 14 days of delivery. The item must be unused and in its original box.", "updated": "2023-02-10"}
+{"id": "returns-2023.md#3", "doc": "returns-2023.md", "text": "## How to start a return", "updated": "2023-02-10"}
+{"id": "returns-2023.md#4", "doc": "returns-2023.md", "text": "Email us your order number and we will send a return label within two days. Drop the parcel at any partner courier point.", "updated": "2023-02-10"}
+{"id": "returns-2023.md#5", "doc": "returns-2023.md", "text": "## When you get your money back", "updated": "2023-02-10"}
+{"id": "returns-2023.md#6", "doc": "returns-2023.md", "text": "We send the refund to your original payment method within 10 business days after the item reaches our warehouse.", "updated": "2023-02-10"}
+{"id": "returns-2023.md#7", "doc": "returns-2023.md", "text": "## Damaged or wrong items", "updated": "2023-02-10"}
+{"id": "returns-2023.md#8", "doc": "returns-2023.md", "text": "If an item arrives broken or is not what you ordered, send a photo within 24 hours of delivery. We send a replacement after the broken item is collected.", "updated": "2023-02-10"}
+{"id": "returns-2023.md#9", "doc": "returns-2023.md", "text": "Need more help? Our support team can help with orders, returns, refunds, shipping, delivery, payments, warranty claims and account questions. Write to help@brightleaf.example and we reply within one business day. Brightleaf Home is a made-up demo store.", "updated": "2023-02-10"}
+{"id": "returns.md#0", "doc": "returns.md", "text": "# Returns and refunds", "updated": "2025-06-01"}
+{"id": "returns.md#1", "doc": "returns.md", "text": "## Return window", "updated": "2025-06-01"}
+{"id": "returns.md#2", "doc": "returns.md", "text": "You can return most items within 30 days of delivery. The item must be unused and in its original box.", "updated": "2025-06-01"}
+{"id": "returns.md#3", "doc": "returns.md", "text": "## How to start a return", "updated": "2025-06-01"}
+{"id": "returns.md#4", "doc": "returns.md", "text": "Go to My Orders, pick the item and click Start a return. Print the free return label and drop the parcel at any partner courier point.", "updated": "2025-06-01"}
+{"id": "returns.md#5", "doc": "returns.md", "text": "## When you get your money back", "updated": "2025-06-01"}
+{"id": "returns.md#6", "doc": "returns.md", "text": "We send the refund to your original payment method within 5 business days after the item reaches our warehouse.", "updated": "2025-06-01"}
+{"id": "returns.md#7", "doc": "returns.md", "text": "## Damaged or wrong items", "updated": "2025-06-01"}
+{"id": "returns.md#8", "doc": "returns.md", "text": "If an item arrives broken or is not what you ordered, send a photo within 48 hours of delivery. We send a free replacement and you do not need to return the broken item.", "updated": "2025-06-01"}
+{"id": "returns.md#9", "doc": "returns.md", "text": "## Items you cannot return", "updated": "2025-06-01"}
+{"id": "returns.md#10", "doc": "returns.md", "text": "Mattresses, pillows and cut-to-size curtains cannot be returned once opened, for hygiene and custom-made reasons.", "updated": "2025-06-01"}
+{"id": "returns.md#11", "doc": "returns.md", "text": "Need more help? Our support team can help with orders, returns, refunds, shipping, delivery, payments, warranty claims and account questions. Write to help@brightleaf.example and we reply within one business day. Brightleaf Home is a made-up demo store.", "updated": "2025-06-01"}
+{"id": "shipping.md#0", "doc": "shipping.md", "text": "# Shipping and delivery", "updated": "2025-05-12"}
+{"id": "shipping.md#1", "doc": "shipping.md", "text": "## Delivery times", "updated": "2025-05-12"}
+{"id": "shipping.md#2", "doc": "shipping.md", "text": "Standard delivery takes 3 to 5 business days in metro cities and up to 8 business days elsewhere.", "updated": "2025-05-12"}
+{"id": "shipping.md#3", "doc": "shipping.md", "text": "## Express delivery", "updated": "2025-05-12"}
+{"id": "shipping.md#4", "doc": "shipping.md", "text": "Express delivery arrives in 1 to 2 business days and costs a flat 199 rupees per order.", "updated": "2025-05-12"}
+{"id": "shipping.md#5", "doc": "shipping.md", "text": "## Free shipping", "updated": "2025-05-12"}
+{"id": "shipping.md#6", "doc": "shipping.md", "text": "Orders above 2,999 rupees ship free with standard delivery.", "updated": "2025-05-12"}
+{"id": "shipping.md#7", "doc": "shipping.md", "text": "## Large furniture", "updated": "2025-05-12"}
+{"id": "shipping.md#8", "doc": "shipping.md", "text": "Sofas, beds and wardrobes come by our own van team. They call you a day before to book a two-hour slot and carry the item to your room.", "updated": "2025-05-12"}
+{"id": "shipping.md#9", "doc": "shipping.md", "text": "## Tracking your parcel", "updated": "2025-05-12"}
+{"id": "shipping.md#10", "doc": "shipping.md", "text": "You get an SMS with a tracking link as soon as the parcel leaves our warehouse.", "updated": "2025-05-12"}
+{"id": "shipping.md#11", "doc": "shipping.md", "text": "## Missed delivery", "updated": "2025-05-12"}
+{"id": "shipping.md#12", "doc": "shipping.md", "text": "The courier tries three times. After the third missed attempt, the parcel comes back to us and we refund you minus the shipping fee.", "updated": "2025-05-12"}
+{"id": "shipping.md#13", "doc": "shipping.md", "text": "Need more help? Our support team can help with orders, returns, refunds, shipping, delivery, payments, warranty claims and account questions. Write to help@brightleaf.example and we reply within one business day. Brightleaf Home is a made-up demo store.", "updated": "2025-05-12"}
+{"id": "warranty.md#0", "doc": "warranty.md", "text": "# Warranty", "updated": "2025-03-03"}
+{"id": "warranty.md#1", "doc": "warranty.md", "text": "## Furniture warranty", "updated": "2025-03-03"}
+{"id": "warranty.md#2", "doc": "warranty.md", "text": "Wooden furniture has a 2-year warranty against cracks, loose joints and manufacturing faults.", "updated": "2025-03-03"}
+{"id": "warranty.md#3", "doc": "warranty.md", "text": "## Lighting warranty", "updated": "2025-03-03"}
+{"id": "warranty.md#4", "doc": "warranty.md", "text": "Lamps and LED lights have a 1-year warranty on the electrical parts.", "updated": "2025-03-03"}
+{"id": "warranty.md#5", "doc": "warranty.md", "text": "## What the warranty does not cover", "updated": "2025-03-03"}
+{"id": "warranty.md#6", "doc": "warranty.md", "text": "Normal wear, water damage, sun fading and damage from moving the item yourself are not covered.", "updated": "2025-03-03"}
+{"id": "warranty.md#7", "doc": "warranty.md", "text": "## How to make a claim", "updated": "2025-03-03"}
+{"id": "warranty.md#8", "doc": "warranty.md", "text": "Fill in the claim form on the Warranty page with your order number and photos. A technician visits within 7 days to repair or replace the item.", "updated": "2025-03-03"}
+{"id": "warranty.md#9", "doc": "warranty.md", "text": "Need more help? Our support team can help with orders, returns, refunds, shipping, delivery, payments, warranty claims and account questions. Write to help@brightleaf.example and we reply within one business day. Brightleaf Home is a made-up demo store.", "updated": "2025-03-03"}
