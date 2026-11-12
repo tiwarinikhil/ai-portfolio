@@ -1,0 +1,19 @@
+Meeting: Sales review
+Company: Northpine Realty (made-up)
+Date: 2026-11-13
+Attendees: Rohan, Isha, Mark, Pooja
+
+Rohan: Let's review this week's leads.
+Isha: We got 22 new leads from the website. Half have no phone number.
+Rohan: Isha, please make the phone field required on the form.
+Isha: Sure, I'll do it on Monday.
+Mark: I'll call the five hot leads tomorrow.
+Pooja: The brochure for the new project has a wrong price.
+Rohan: Pooja, can you get the brochure reprinted before the 18th?
+Pooja: Okay.
+Mark: Did we pay the portal listing fee?
+Rohan: I paid it yesterday.
+Rohan: Mark is going to prepare the site visit schedule for next week.
+Isha: We should also reply to the Google reviews.
+Pooja: I can do that this week.
+Rohan: Thanks all, see you Monday.

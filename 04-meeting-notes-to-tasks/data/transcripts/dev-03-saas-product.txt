@@ -1,0 +1,20 @@
+Meeting: Product sync
+Company: Orbit Ledger (made-up)
+Date: 2026-11-11
+Attendees: Ananya, Vikram, Tom, Neha
+
+Ananya: Let's start with the bug list.
+Vikram: The invoice PDF shows the wrong GST number for some users.
+Ananya: That is urgent. Vikram, could you fix it today?
+Vikram: Yes, I will push a fix tonight.
+Tom: I'm going to write a test for the GST field so it does not come back.
+Neha: Three customers asked for a Tally export.
+Ananya: Neha to collect the exact export format from those customers by next Monday.
+Neha: Okay.
+Tom: Will the old API be turned off in December?
+Ananya: Yes. Tom, please email the API users about the change by Nov 25.
+Tom: Sure thing.
+Vikram: I think we should move the docs to the new site.
+Ananya: Not now. We can talk about it in January.
+Ananya: I will update the roadmap doc by end of week.
+Neha: Thanks.

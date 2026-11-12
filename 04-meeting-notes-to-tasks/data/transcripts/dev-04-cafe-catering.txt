@@ -1,0 +1,18 @@
+Meeting: Catering planning
+Company: Spice Route Cafe (made-up)
+Date: 2026-11-12
+Attendees: Farah, Dev, Sunita, Karan
+
+Farah: We got the big wedding order for December 5.
+Dev: We need 40 extra chairs. I'll call the rental company tomorrow.
+Sunita: The menu tasting is pending.
+Farah: Sunita, can you set up the tasting with the client next week?
+Sunita: Yes, will do.
+Karan: Who is handling the extra staff?
+Farah: Karan will hire four servers by December 1.
+Karan: Okay, but I need the budget first.
+Farah: I'll send you the budget by EOD.
+Dev: The fridge in the second kitchen is making noise again.
+Dev: Let me get a technician in on Saturday.
+Sunita: I did the food safety training last month.
+Farah: Great. That's it for today.
