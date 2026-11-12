@@ -1,0 +1,19 @@
+Meeting: Team meeting
+Company: Lumen Tutors (made-up)
+Date: 2026-11-18
+Attendees: Shreya, Imran, Kate, Varun
+
+Shreya: First, the parent feedback from October.
+Imran: Parents want weekly progress reports.
+Shreya: Imran, could you make a simple report template by Friday?
+Imran: Yes.
+Kate: Two tutors quit last week. I will post the job ad today.
+Varun: Should we raise the price for the math batch?
+Shreya: Not this term.
+Varun: Then I'll update the fee page so it shows the old offer has ended, in two days.
+Shreya: Kate, please book the interview room for next Tuesday.
+Kate: Okay.
+Imran: The video call tool logged out three classes yesterday.
+Shreya: I'll raise a ticket with them right after this meeting.
+Varun: I already fixed the class links last night.
+Shreya: Thanks, everyone.

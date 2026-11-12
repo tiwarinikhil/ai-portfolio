@@ -1,0 +1,19 @@
+Meeting: Operations weekly
+Company: Greenfork Organics (made-up)
+Date: 2026-11-16
+Attendees: Aditi, Sanjay, Ravi, Elena
+
+Aditi: Delivery delays are our top complaint this month.
+Sanjay: Most delays are in the east zone. The van there breaks down a lot.
+Aditi: Sanjay, get two quotes for a new van by Thursday.
+Sanjay: Okay.
+Ravi: I'll update the delivery time on the website to three days.
+Elena: Can someone check why the coupon code fails at checkout?
+Ravi: I'll look into it today.
+Elena: Thanks. I will also draft the November newsletter by the 25th.
+Aditi: Do we have enough stock for the weekend sale?
+Sanjay: Yes, the warehouse checked on Friday.
+Aditi: Let's have Elena post the sale on Instagram on Friday.
+Elena: Sure.
+Aditi: I'm going to talk to the bank about the payment gateway fees next week.
+Aditi: Okay, that is all.

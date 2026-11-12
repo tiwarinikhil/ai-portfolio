@@ -1,0 +1,21 @@
+Meeting: Clinic operations
+Company: Fernway Dental (made-up)
+Date: 2026-11-10
+Attendees: Kavya, Sameer, Lina, Joseph
+
+Kavya: Quick ops meeting. Two things: the booking form and the new X-ray machine.
+Sameer: Patients say the booking form fails on mobile.
+Kavya: Sameer, please fix the mobile form by Thursday.
+Sameer: Yes, on it.
+Lina: The X-ray vendor wants a signed contract.
+Kavya: I'll sign it after I read the warranty part, by the 20th.
+Joseph: Can you also send me the vendor's invoice?
+Lina: Sure, I'll send it tomorrow.
+Joseph: We need to remind patients about the holiday closure.
+Kavya: Joseph is going to call the lab about the late crowns.
+Joseph: Fine. I'll also order more gloves in two days.
+Lina: Did anyone check the AC repair?
+Sameer: Yes, it was fixed on Monday.
+Kavya: Actually, let me ask the landlord about the AC bill next week.
+Kavya: Scratch that, Lina already asked him.
+Kavya: That's all.
