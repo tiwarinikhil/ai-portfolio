@@ -1,0 +1,72 @@
+{
+  "meeting": "Operations weekly",
+  "date": "2026-11-16",
+  "attendees": [
+    "Aditi",
+    "Sanjay",
+    "Ravi",
+    "Elena"
+  ],
+  "mode": "rules",
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Get two quotes for a new van by Thursday",
+      "owner": "Sanjay",
+      "due": "2026-11-19",
+      "turn": 3,
+      "quote": "Aditi: Sanjay, get two quotes for a new van by Thursday.",
+      "needs_review": []
+    },
+    {
+      "id": 2,
+      "task": "Update the delivery time on the website to three days",
+      "owner": "Ravi",
+      "due": null,
+      "turn": 5,
+      "quote": "Ravi: I'll update the delivery time on the website to three days.",
+      "needs_review": [
+        "no due date"
+      ]
+    },
+    {
+      "id": 3,
+      "task": "Check why the coupon code fails at checkout",
+      "owner": null,
+      "due": null,
+      "turn": 6,
+      "quote": "Elena: Can someone check why the coupon code fails at checkout?",
+      "needs_review": [
+        "no owner",
+        "no due date"
+      ]
+    },
+    {
+      "id": 4,
+      "task": "Look into it today",
+      "owner": "Ravi",
+      "due": "2026-11-16",
+      "turn": 7,
+      "quote": "Ravi: I'll look into it today.",
+      "needs_review": []
+    },
+    {
+      "id": 5,
+      "task": "Draft the November newsletter by the 25th",
+      "owner": "Elena",
+      "due": "2026-11-25",
+      "turn": 8,
+      "quote": "Elena: Thanks. I will also draft the November newsletter by the 25th.",
+      "needs_review": []
+    },
+    {
+      "id": 6,
+      "task": "Talk to the bank about the payment gateway fees next week",
+      "owner": "Aditi",
+      "due": "2026-11-27",
+      "turn": 13,
+      "quote": "Aditi: I'm going to talk to the bank about the payment gateway fees next week.",
+      "needs_review": []
+    }
+  ]
+}
