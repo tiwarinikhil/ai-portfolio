@@ -1,0 +1,48 @@
+{"id": "D01", "split": "dev", "transcript": "hello yeah um what time do you open on sunday", "expected": "timings"}
+{"id": "D02", "split": "dev", "transcript": "hi i wanted to know uh where exactly is the clinic located", "expected": "location"}
+{"id": "D03", "split": "dev", "transcript": "is there a place to park my car", "expected": "parking"}
+{"id": "D04", "split": "dev", "transcript": "i want to book an apointment with the doctor for tomorrow", "expected": "book"}
+{"id": "D05", "split": "dev", "transcript": "uh i need to cancel my appointment for today evening", "expected": "cancel"}
+{"id": "D06", "split": "dev", "transcript": "how much is the doctors fee for checking", "expected": "fees"}
+{"id": "D07", "split": "dev", "transcript": "do you take star health insurance cash less", "expected": "insurance"}
+{"id": "D08", "split": "dev", "transcript": "can i pay with google pay or phone pay", "expected": "payment"}
+{"id": "D09", "split": "dev", "transcript": "when will my blood report come i gave sample yesterday", "expected": "reports"}
+{"id": "D10", "split": "dev", "transcript": "should i eat before my sugar test tomorrow morning", "expected": "fasting"}
+{"id": "D11", "split": "dev", "transcript": "can someone come home to take blood my mother cant walk", "expected": "home-collection"}
+{"id": "D12", "split": "dev", "transcript": "is the child specialist there on tuesday", "expected": "doctors"}
+{"id": "D13", "split": "dev", "transcript": "my baby needs the next vaccine shot do you give that", "expected": "child-vaccination"}
+{"id": "D14", "split": "dev", "transcript": "can i see the doctor on video call from home", "expected": "teleconsult"}
+{"id": "D15", "split": "dev", "transcript": "does anyone there speak kannada", "expected": "languages"}
+{"id": "D16", "split": "dev", "transcript": "i need my bp tablets prescription renewed", "expected": "prescription-refill"}
+{"id": "D17", "split": "dev", "transcript": "how do i get a copy of my old medical records", "expected": "records"}
+{"id": "D18", "split": "dev", "transcript": "my father uses a wheelchair can he come in", "expected": "wheelchair"}
+{"id": "D19", "split": "dev", "transcript": "my husband has chest pain and is sweating a lot what do we do", "expected": "urgent"}
+{"id": "D20", "split": "dev", "transcript": "my son fell and he is not waking up", "expected": "urgent"}
+{"id": "D21", "split": "dev", "transcript": "she cant breathe properly please help", "expected": "urgent"}
+{"id": "D22", "split": "dev", "transcript": "is this rash on my arm serious should i be worried", "expected": "handoff"}
+{"id": "D23", "split": "dev", "transcript": "what medicine should i take for my fever", "expected": "handoff"}
+{"id": "D24", "split": "dev", "transcript": "can you tell me the result of my x ray is it normal", "expected": "handoff"}
+{"id": "D25", "split": "dev", "transcript": "do you have a pharmacy that delivers medicines", "expected": "handoff"}
+{"id": "D26", "split": "dev", "transcript": "i want to apply for a nurse job at your clinic", "expected": "handoff"}
+{"id": "D27", "split": "dev", "transcript": "um what is the uh fees for the video consultation", "expected": "teleconsult"}
+{"id": "D28", "split": "dev", "transcript": "how early should i call if i want to change my slot", "expected": "cancel"}
+{"id": "H01", "split": "holdout", "transcript": "hi are you open on saturday till what time", "expected": "timings"}
+{"id": "H02", "split": "holdout", "transcript": "whats the address of sunrise clinic", "expected": "location"}
+{"id": "H03", "split": "holdout", "transcript": "can i come on my bike is there space for two wheeler", "expected": "parking"}
+{"id": "H04", "split": "holdout", "transcript": "how can i fix an appointment with doctor sharma", "expected": "book"}
+{"id": "H05", "split": "holdout", "transcript": "i cant come today can i move my booking to friday", "expected": "cancel"}
+{"id": "H06", "split": "holdout", "transcript": "how much do you charge for consultation", "expected": "fees"}
+{"id": "H07", "split": "holdout", "transcript": "is niva bupa accepted at your clinic", "expected": "insurance"}
+{"id": "H08", "split": "holdout", "transcript": "do you accept credit card", "expected": "payment"}
+{"id": "H09", "split": "holdout", "transcript": "will you whatsapp me the lab results", "expected": "reports"}
+{"id": "H10", "split": "holdout", "transcript": "how many hours empty stomach for cholesterol test", "expected": "fasting"}
+{"id": "H11", "split": "holdout", "transcript": "do you do home sample collection and what time", "expected": "home-collection"}
+{"id": "H12", "split": "holdout", "transcript": "which days is the kids doctor available", "expected": "doctors"}
+{"id": "H13", "split": "holdout", "transcript": "my grandfather is having a stroke i think his face is drooping", "expected": "urgent"}
+{"id": "H14", "split": "holdout", "transcript": "there is a lot of bleeding from his head after the accident", "expected": "urgent"}
+{"id": "H15", "split": "holdout", "transcript": "how many tablets of paracetamol can i give my daughter", "expected": "handoff"}
+{"id": "H16", "split": "holdout", "transcript": "do you do knee surgery", "expected": "handoff"}
+{"id": "H17", "split": "holdout", "transcript": "can i talk to the doctor in hindi", "expected": "languages"}
+{"id": "H18", "split": "holdout", "transcript": "is there a lift i cant use stairs", "expected": "wheelchair"}
+{"id": "H19", "split": "holdout", "transcript": "i need my diabetes medicine prescription again its finished", "expected": "prescription-refill"}
+{"id": "H20", "split": "holdout", "transcript": "uh my wife collapsed in the kitchen she is breathing but not answering", "expected": "urgent"}
