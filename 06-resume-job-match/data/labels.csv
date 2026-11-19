@@ -1,0 +1,37 @@
+resume_id,job_id,split,label,why
+R01,J1,dev,strong,all 4 shown; 4 years
+R02,J1,dev,maybe,PostgreSQL missing (MySQL)
+R03,J1,dev,no,Python and Django/FastAPI missing
+R04,J1,dev,maybe,every must-have only listed; QA work
+R05,J1,dev,maybe,all shown but 2 years of 3
+R06,J1,dev,strong,all shown (Postgres); 4 years
+R07,J1,dev,maybe,says no hands-on PostgreSQL
+R08,J1,holdout,strong,all shown (Django REST Framework; Postgres 14); 5 years
+R09,J1,holdout,maybe,Flask not Django/FastAPI
+R10,J1,holdout,no,Django/FastAPI and PostgreSQL missing
+R11,J1,holdout,strong,all shown across 2 jobs; 4 years
+R12,J1,holdout,maybe,all shown but 1 year of 3
+R13,J2,dev,strong,all 3 shown; 4 years
+R14,J2,dev,maybe,Excel only listed
+R15,J2,dev,no,SQL and Power BI/Tableau missing
+R16,J2,dev,strong,all shown (MS Excel; PowerBI); 3 years
+R17,J2,dev,maybe,all shown but 1 year of 2
+R18,J2,dev,no,SQL and Excel missing
+R19,J2,dev,maybe,still learning Power BI
+R20,J2,holdout,strong,all shown (T-SQL; Tableau); 4 years
+R21,J2,holdout,no,Google Sheets and Looker Studio instead of Excel and Power BI/Tableau
+R22,J2,holdout,maybe,Power BI only listed
+R23,J2,holdout,strong,all shown; 4 years
+R24,J2,holdout,maybe,SQL basics only listed; Power BI/Tableau missing -> 1 missing
+R25,J3,dev,strong,all shown; 9 years
+R26,J3,dev,maybe,never led a team (reports to a team lead)
+R27,J3,dev,no,no support work and no support tool
+R28,J3,dev,strong,managed a team of 12; Zendesk; 6 years
+R29,J3,dev,maybe,all shown but 3 years of 4
+R30,J3,dev,no,no customer support role and no support tool
+R31,J3,dev,maybe,Zendesk/Freshdesk and team lead only listed
+R32,J3,holdout,strong,customer care team leader; Freshdesk; 8 years
+R33,J3,holdout,maybe,Intercom not Zendesk/Freshdesk
+R34,J3,holdout,no,no support work; no team lead; Zendesk only listed
+R35,J3,holdout,strong,supervised a team of 9; Zendesk; 6 years
+R36,J3,holdout,maybe,trained new hires but never led a team
