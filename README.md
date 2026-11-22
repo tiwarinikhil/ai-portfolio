@@ -10,6 +10,7 @@ Practical AI projects by Nikhil Tiwary, AI Engineer (M.Tech in AI, IIT Ropar). E
 | 04 | [Meeting Notes to Tasks](04-meeting-notes-to-tasks) | Turns a meeting transcript into tasks with owners and due dates, with a human-check list. 69% fully right on unseen meetings vs 6% for keyword matching | Python, rule-based NLP, OpenAI-compatible LLMs |
 | 05 | [Voice FAQ Agent for a Clinic](05-voice-faq-clinic) | Phone assistant that answers clinic FAQs and sends emergencies and medical questions to a person. On unseen calls: 3/3 emergencies caught, 2 wrong answers vs 8 for a simple FAQ bot | Python, BM25, OpenAI-compatible speech and LLM APIs |
 | 06 | [Resume to Job Match Scorer](06-resume-job-match) | Sorts resumes into strong, maybe or no with a reason for each, and catches keyword-stuffed resumes. Every resume it shortlisted on a holdout set was really strong (2/2 vs 2/4 for keyword filtering) | Python, rule-based matching, OpenAI-compatible LLMs |
+| 07 | [Invoice Data Extractor](07-invoice-extractor) | Pulls seller, GST number and amounts out of supplier invoices and flags totals that do not add up. 87% of fields right on unseen invoices, both real problems caught, 1 silent error vs 9 for a quick regex | Python, rule-based extraction, OpenAI-compatible LLMs |
 
 New project every week.
 

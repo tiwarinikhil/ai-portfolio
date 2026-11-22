@@ -1,0 +1,10 @@
+Bharat Stationery Mart
+GST No: 29AABFB2020E1Z4
+Invoice Ref: BSM-7781
+Invoice dt: 16-11-2026
+Notebooks 200 @ 45        9,000.00
+Pens 300 @ 10             3,000.00
+Taxable Amt              12,000.00
+CGST 6%                     720.00
+SGST 6%                     720.00
+Invoice Value            13,440.00

@@ -1,0 +1,13 @@
+SHREE GANESH TRADERS
+GSTIN: 27AAFCS1234K1Z3
+Tax Invoice
+Invoice No: SGT/2026/0412
+Date: 03/11/2026
+Bill To: Brightpath Retail Tech
+Item                Qty   Rate     Amount
+A4 Paper Ream       10    250.00   2,500.00
+Stapler             5     180.00     900.00
+Sub Total                          3,400.00
+CGST 9%                              306.00
+SGST 9%                              306.00
+Total                              4,012.00

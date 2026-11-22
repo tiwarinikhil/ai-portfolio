@@ -1,0 +1,12 @@
+TAX INVOICE
+Bill To: Brightpath Retail Tech, GSTIN 29AACCB5678L1Z9
+From: Kaveri Packaging Pvt Ltd
+Supplier GSTIN: 33AADCK4321M1Z2
+Invoice #: KP-1187
+Invoice Date: 12-Nov-2026
+Due Date: 27-Nov-2026
+Description                 Amount
+Corrugated boxes x 500      18,500.00
+Taxable Value               18,500.00
+IGST @ 18%                   3,330.00
+Grand Total (INR)           21,830.00

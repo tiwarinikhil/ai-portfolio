@@ -1,0 +1,9 @@
+Vertex Interiors
+GSTIN: 29AAIFV9191P1Z0
+Invoice No: VI-26-077
+Invoice Date: 19/11/2026
+Store interior work, phase 1     2,40,000.00
+Subtotal                         2,40,000.00
+CGST 9%                            21,600.00
+SGST 9%                            21,600.00
+Amount Due                       2,83,200.00
