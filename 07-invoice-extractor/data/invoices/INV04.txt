@@ -1,0 +1,8 @@
+METRO OFFICE SUPPLIES
+GSTIN: 07AAKFM2468P1Z1
+Invoice No: MOS-55120
+Invoice Date: 05.11.2026
+Printer toner (HP 88A) 4 x 3,200     12,800.00
+Subtotal                             12,800.00
+GST 18%                               2,304.00
+TOTAL                                15,404.00

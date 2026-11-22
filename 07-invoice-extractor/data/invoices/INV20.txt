@@ -1,0 +1,11 @@
+Lotus Event Planners
+GSTIN: 29AALFL6464F1Z9
+Invoice No: LEP-512
+Date: 21/11/2026
+Store launch event management     50,000.00
+Subtotal                          50,000.00
+CGST 9%                            4,500.00
+SGST 9%                            4,500.00
+Total                             59,000.00
+Less: Advance paid                20,000.00
+Balance Payable                   39,000.00

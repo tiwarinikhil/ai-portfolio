@@ -1,0 +1,10 @@
+Rao & Sons Plumbing
+GSTIN: 29AAKFR3131B1Z2
+Invoice No: RSP-044
+Date: Nov 17, 2026
+Pipe repair and fittings          4,500.00
+Subtotal                          4,500.00
+CGST 9%                             405.00
+SGST 9%                             405.00
+Total                             5,310.00
+Due by: Dec 2, 2026

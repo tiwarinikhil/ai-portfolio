@@ -1,0 +1,9 @@
+Green Valley Housekeeping
+GSTIN: 29AAGFG9753R1Z
+Invoice Number: GVH-778
+Date: 01/11/2026
+Housekeeping services, October 2026      32,000.00
+Subtotal                                  32,000.00
+CGST 9%                                    2,880.00
+SGST 9%                                    2,880.00
+Total                                     37,760.00

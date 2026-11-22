@@ -1,0 +1,9 @@
+QuickBite Snacks Distributors
+GSTIN: 29AAQFQ5050G1Z8
+Invoice No: QB-9921
+Date: 11/11/2026
+Assorted snacks (cartons) 25 x 640     16,000.00
+Subtotal                               16,000.00
+CGST 2.5%                                 400.00
+SGST 2.5%                                 400.00
+Total                                  17,800.00

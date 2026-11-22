@@ -1,0 +1,9 @@
+Orbit Electronics
+GSTIN: 29AAOFO7272C1Z5
+Bill No: OE/2026/880
+Bill Date: 14-Nov-2026
+Barcode scanners x 4           12,000.00
+Card machine stand x 4          2,000.00
+Subtotal                       14,000.00
+Total Tax (18%)                 2,520.00
+Grand Total                    16,520.00

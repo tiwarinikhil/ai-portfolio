@@ -1,0 +1,11 @@
+TAX INVOICE
+Seller: Pinnacle Furniture Works
+Seller GSTIN: 33AAHFP6060J1Z7
+Buyer: Brightpath Retail Tech
+Buyer GSTIN: 29AACCB5678L1Z9
+Invoice No: PFW-2290
+Invoice Date: 18/11/2026
+Office chairs x 12          54,000.00
+Sub Total                   54,000.00
+IGST 18%                     9,720.00
+Grand Total                 63,720.00

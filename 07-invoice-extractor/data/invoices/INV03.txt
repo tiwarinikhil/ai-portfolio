@@ -1,0 +1,10 @@
+Lakeview Catering Services
+GSTIN 29ABMPL7788C1ZK
+Invoice No. LCS-0093     Dated: 2026-10-28
+Lunch boxes, 40 nos @ 145    5,800.00
+Tea and snacks               1,250.00
+Sub-total                    7,050.00
+CGST 2.5%                      176.25
+SGST 2.5%                      176.25
+Round off                       -0.50
+Amount Payable               7,402.00

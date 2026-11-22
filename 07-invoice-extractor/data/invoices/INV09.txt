@@ -1,0 +1,9 @@
+Nandi Fresh Produce
+GSTIN: 29AAPFN1122D1ZQ
+PO Number: BRT-PO-5521
+Inv No: NFP/1123
+Invoice Date: 10th Nov 2026
+Vegetables for staff canteen      8,400.00
+Sub Total                         8,400.00
+GST (exempt goods)                    0.00
+Total                             8,400.00

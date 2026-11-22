@@ -1,0 +1,10 @@
+Coastal IT Solutions LLP
+GSTIN: 29AALFC4455H1Z6
+Invoice No : CITS-INV-0450
+Invoice Date : 15/11/2026
+Laptop repair (3 units)                 6,000.00
+Annual antivirus licences (20)         14,000.00
+Total before tax                       20,000.00
+CGST (9%)                               1,800.00
+SGST (9%)                               1,800.00
+Net Amount                             23,600.00
