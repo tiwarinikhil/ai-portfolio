@@ -1,0 +1,24 @@
+{"id": "D01", "split": "dev", "text": "Hi bhaiya, 2 kg aloo, 1 kg onion and 1 dozen eggs please", "items": {"potato": 2, "onion": 1, "eggs": 1}, "unknown": []}
+{"id": "D02", "split": "dev", "text": "milk 2 packet aur bread 1", "items": {"milk": 2, "bread": 1}, "unknown": []}
+{"id": "D03", "split": "dev", "text": "Send 5kg atta, 1kg sugar, 2 maggi", "items": {"atta": 5, "sugar": 1, "maggi": 2}, "unknown": []}
+{"id": "D04", "split": "dev", "text": "ek dozen anda aur do packet doodh", "items": {"eggs": 1, "milk": 2}, "unknown": []}
+{"id": "D05", "split": "dev", "text": "500 gm tomato, 1 kg pyaaz, dhaniya 1 bunch", "items": {"tomato": 0.5, "onion": 1, "coriander": 1}, "unknown": []}
+{"id": "D06", "split": "dev", "text": "need rice 10 kg and oil 1 litre, also some chips", "items": {"rice": 10, "oil": 1}, "unknown": ["chips"]}
+{"id": "D07", "split": "dev", "text": "paneer 500 gm, curd 1", "items": {"paneer": 0.5, "curd": 1}, "unknown": []}
+{"id": "D08", "split": "dev", "text": "tea 1 packet, salt, sugar 2kg", "items": {"tea": 1, "salt": null, "sugar": 2}, "unknown": []}
+{"id": "D09", "split": "dev", "text": "aadha kilo tamatar, 1 kilo aloo", "items": {"tomato": 0.5, "potato": 1}, "unknown": []}
+{"id": "D10", "split": "dev", "text": "Bhaiya kal subah tak 3 bread aur 6 eggs bhej dena", "items": {"bread": 3, "eggs": 0.5}, "unknown": []}
+{"id": "D11", "split": "dev", "text": "Can you send 1 dahi and 2 packet maggi. Thanks!", "items": {"curd": 1, "maggi": 2}, "unknown": []}
+{"id": "D12", "split": "dev", "text": "1 ltr oil, 1 kg chini, 1 packet namak", "items": {"oil": 1, "sugar": 1, "salt": 1}, "unknown": []}
+{"id": "H01", "split": "holdout", "text": "Hello, 3 kg potatoes and 2 dozen eggs", "items": {"potato": 3, "eggs": 2}, "unknown": []}
+{"id": "H02", "split": "holdout", "text": "do kilo pyaz, ek kilo tamatar", "items": {"onion": 2, "tomato": 1}, "unknown": []}
+{"id": "H03", "split": "holdout", "text": "1 packet Amul butter and 2 bread", "items": {"bread": 2}, "unknown": ["butter"]}
+{"id": "H04", "split": "holdout", "text": "paneer 250 gram, dhania", "items": {"paneer": 0.25, "coriander": null}, "unknown": []}
+{"id": "H05", "split": "holdout", "text": "aata 10 kilo, cheeni 2 kilo", "items": {"atta": 10, "sugar": 2}, "unknown": []}
+{"id": "H06", "split": "holdout", "text": "Please send half kg tomato and 2 packets milk", "items": {"tomato": 0.5, "milk": 2}, "unknown": []}
+{"id": "H07", "split": "holdout", "text": "teen maggi aur ek chai patti", "items": {"maggi": 3, "tea": 1}, "unknown": []}
+{"id": "H08", "split": "holdout", "text": "rice 5kg, oil 2 L, salt 1", "items": {"rice": 5, "oil": 2, "salt": 1}, "unknown": []}
+{"id": "H09", "split": "holdout", "text": "1 dozen eggs, 1 bread, 1 Pepsi 2L", "items": {"eggs": 1, "bread": 1}, "unknown": ["pepsi"]}
+{"id": "H10", "split": "holdout", "text": "doodh 3 packet, dahi 2", "items": {"milk": 3, "curd": 2}, "unknown": []}
+{"id": "H11", "split": "holdout", "text": "onion 2kg potato 2kg tomato 1kg", "items": {"onion": 2, "potato": 2, "tomato": 1}, "unknown": []}
+{"id": "H12", "split": "holdout", "text": "12 ande, 1 kg aloo", "items": {"eggs": 1, "potato": 1}, "unknown": []}
